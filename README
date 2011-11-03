@@ -1,0 +1,9 @@
+Simple Chat program:
+This is a simple program that you can use to chat over the internet. It can hold as many clients as you woule like. 
+
+To run: in ChatClient.java you need to change the 000.00.00.000 ip address to the ipaddress of the computer that the server is being run on.
+Then you need to compile and run the server first, and then the clients.
+Let me know of any problems.
+Thanks
+Joe Adams
+
